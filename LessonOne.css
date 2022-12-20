@@ -1,0 +1,11 @@
+body{
+    background-color: peachpuff;
+    font-family: 'Unbounded', cursive;
+}
+
+H2{position: relative;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
