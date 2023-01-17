@@ -1,0 +1,46 @@
+
+
+.box2{
+background-color: pink;
+margin-left: 0;
+}
+
+.box3{
+background-color: red;
+width: 75%;
+margin-left: 25%
+}
+
+.box4{
+    border: 1px solid black ;
+    background-color: yellow;
+    width: 25%;
+    margin-left: 75%;
+
+}
+
+.body{
+    border: 2px solid black;
+    height: auto;
+}
+
+.container{
+    display: flex;
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 82px;
+    justify-content: center;
+}
+
+.items{
+    border: 1px solid green;
+    width: 200px;
+    height: 80px;
+    margin: auto;
+
+}
+ol,ul{
+    list-style-position: inside;
+    text-align: center;
+    list-style-type: none;
+}
